@@ -1,0 +1,38 @@
+{
+ "fecha": "2026-11-20",
+ "videos": [
+  {
+   "id": "A_ejemplo",
+   "fmt": "v",
+   "title": "La app de GTA 6 para robar coches #gta6 #shorts",
+   "thumb": [
+    "WAINK",
+    "LA APP SECRETA",
+    "SHORT"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "TRUCO",
+     "t": "LA APP PARA ROBAR COCHES",
+     "b": "",
+     "n": "GTA 6 tiene una app en el móvil para robar coches."
+    },
+    {
+     "lay": "hero",
+     "k": "SE LLAMA",
+     "t": "WAINK",
+     "b": "Escanea coches aparcados",
+     "n": "Se llama WAINK, y escanea los coches aparcados."
+    },
+    {
+     "lay": "hero",
+     "k": "TE DICE",
+     "t": "VALOR · ALARMA · RASTREADOR",
+     "b": "Y si está cerrado",
+     "n": "Te dice cuánto vale, cuánto cuesta registrarlo, si está cerrado y si tiene alarma o rastreador. Sígueme para más trucos."
+    }
+   ]
+  }
+ ]
+}
