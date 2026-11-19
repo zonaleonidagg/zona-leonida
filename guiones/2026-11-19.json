@@ -1,0 +1,60 @@
+{
+ "fecha": "2026-11-19",
+ "videos": [
+  {
+   "id": "A_resenas_prensa",
+   "fmt": "v",
+   "formato": "resena",
+   "title": "GTA 6: ¿qué dice la prensa? Un 99… y una pega #gta6 #shorts",
+   "thumb": [
+    "NOTA 99",
+    "LA PRENSA OPINA",
+    "RESEÑAS"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "RESEÑAS",
+     "t": "¿EL MEJOR JUEGO DE LA HISTORIA?",
+     "b": "",
+     "n": "GTA 6 ya salió y la prensa se ha rendido. Pero ojo, que también tiene pegas."
+    },
+    {
+     "lay": "stat",
+     "k": "METACRITIC",
+     "t": "99",
+     "b": "153 RESEÑAS · EMPATA CON OCARINA OF TIME",
+     "n": "En Metacritic tiene un noventa y nueve con ciento cincuenta y tres reseñas. Empata con Ocarina of Time como la nota más alta de la historia."
+    },
+    {
+     "lay": "hero",
+     "k": "LO QUE AMAN",
+     "t": "UN MUNDO QUE REACCIONA",
+     "b": "Vandal: 10 · IGN: lo más impresionante",
+     "n": "Lo que más elogian: un mundo lleno de detalle que reacciona a lo que haces. Vandal le pone un diez."
+    },
+    {
+     "lay": "hero",
+     "k": "LA PEGA",
+     "t": "ARRANCA LENTO",
+     "b": "El caos de siempre tarda en llegar",
+     "n": "La crítica que más se repite: el arranque es lento y muy guiado. Varios medios dicen que el GTA de siempre tarda horas en aparecer."
+    },
+    {
+     "lay": "hero",
+     "k": "OJO",
+     "t": "30 FPS EN CONSOLA",
+     "b": "Sin modo 60 · Sin PC por ahora",
+     "n": "Además, en consola va a treinta imágenes por segundo, sin modo de sesenta. Y de momento no hay versión de PC."
+    },
+    {
+     "lay": "hero",
+     "k": "MI CONSEJO",
+     "t": "TEN PACIENCIA",
+     "b": "Historia larga y mundo enorme: es para ti",
+     "n": "¿Es para ti? Si te gusta explorar, sí. Si quieres caos desde el minuto uno, ten paciencia. Sígueme para más."
+    }
+   ]
+  }
+ ]
+}
