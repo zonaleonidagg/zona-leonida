@@ -94,6 +94,30 @@ def make(v):
         im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
         d.rounded_rectangle([154, 224, 160 + 766, 230 + 434], 40, outline=(255, 255, 255, 255), width=8)
         im.paste(av, (60, 80), am); d.text((160, 123), "@ZonaLeonida", font=ImageFont.truetype("/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf", 40), fill=(255, 255, 255, 235), anchor="lm", stroke_width=4, stroke_fill=(0, 0, 0, 200))
+        # step label + big title of the current scene
+        seg = [s for s in segs if s[0] <= t < s[0] + s[1]] or [segs[-1]]
+        s0, D, sl, i = seg[0]
+        kk, tt = sl.get("k", ""), sl.get("t", "")
+        if kk:
+            fk = FONTS.setdefault("k", ImageFont.truetype("/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf", 40))
+            tw = d.textlength(kk, font=fk)
+            d.rounded_rectangle([W / 2 - tw / 2 - 28, 690, W / 2 + tw / 2 + 28, 750], 30, fill=(25, 227, 208, 255))
+            d.text((W / 2, 720), kk, font=fk, fill=(13, 11, 30, 255), anchor="mm")
+        if tt:
+            fs = 104
+            while True:
+                ft = FONTS.setdefault(("t", fs), ImageFont.truetype("/usr/share/fonts/opentype/inter/InterDisplay-Black.otf", fs))
+                words = tt.split(); lines = [""]
+                for w_ in words:
+                    cand = (lines[-1] + " " + w_).strip()
+                    if d.textlength(cand, font=ft) <= 980: lines[-1] = cand
+                    else: lines.append(w_)
+                if len(lines) <= 2 or fs <= 60: break
+                fs -= 8
+            ty = 770
+            for ln in lines:
+                d.text((W / 2, ty), ln, font=ft, fill=(255, 210, 63, 255), anchor="ma", stroke_width=12, stroke_fill=(0, 0, 0, 255))
+                ty += int(fs * 1.05)
         # caption
         while gi < len(groups) - 1 and t >= groups[gi + 1][0][0]: gi += 1
         g = groups[gi]
@@ -104,7 +128,7 @@ def make(v):
                 widths = [d.textlength(x, font=FF) for x in txt]; sp = 26
                 if sum(widths) + sp * (len(txt) - 1) <= 960 or fs <= 50: break
                 fs -= 6; FF = FONTS.setdefault(fs, ImageFont.truetype("/usr/share/fonts/opentype/inter/InterDisplay-Black.otf", fs))
-            x = W / 2 - (sum(widths) + sp * (len(txt) - 1)) / 2; y = 860
+            x = W / 2 - (sum(widths) + sp * (len(txt) - 1)) / 2; y = 1030
             for k, (w, wd) in enumerate(zip(txt, widths)):
                 active = g[k][0] <= t < g[k][1]
                 d.text((x, y + (92 - fs) // 2), w, font=FF, fill=(255, 210, 63, 255) if active else (255, 255, 255, 255), stroke_width=12, stroke_fill=(0, 0, 0, 255))

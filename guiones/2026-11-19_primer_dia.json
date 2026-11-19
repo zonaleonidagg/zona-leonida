@@ -1,0 +1,26 @@
+{
+ "fecha": "2026-11-19",
+ "videos": [
+  {
+   "id": "X_primer_dia",
+   "fmt": "v",
+   "formato": "guia",
+   "title": "¿Qué hacer el PRIMER DÍA en GTA 6? #gta6 #shorts",
+   "thumb": ["PRIMER DÍA", "EN GTA 6", "GUÍA RÁPIDA"],
+   "slides": [
+    {"lay": "hero", "k": "PASO 0", "t": "IR AL TACÓN", "b": "(EL MÁS IMPORTANTE)",
+     "n": "¿Qué hacer el primer día en GTA 6? Paso cero, y el más importante de todos: ir al tacón. Sin eso, no se juega."},
+    {"lay": "hero", "k": "PASO 1/4", "t": "AJUSTES", "b": "",
+     "n": "Paso uno: los ajustes. Pon los subtítulos en español y calibra el brillo antes de empezar."},
+    {"lay": "hero", "k": "PASO 2/4", "t": "MIRA LOS ICONOS DE LA POLICÍA", "b": "",
+     "n": "Paso dos: fíjate en los iconos junto a las estrellas. Te dicen lo que la policía sabe de ti: tu ropa, tu cara o tu coche. Cambia eso y les pierdes la pista."},
+    {"lay": "hero", "k": "PASO 3/4", "t": "CUIDADO CON LOS TESTIGOS", "b": "",
+     "n": "Paso tres: cuidado. Si alguien te ve o salta una alarma, te denuncian. Y la violencia sin sentido queda apuntada en tu perfil criminal."},
+    {"lay": "hero", "k": "PASO 4/4", "t": "NO TE LANCES A LA HISTORIA", "b": "",
+     "n": "Paso cuatro: no corras con la historia. Sal a explorar Leonida y usa el modo Focus, porque muchas sorpresas no salen en el mapa."},
+    {"lay": "hero", "k": "TU TURNO", "t": "¿JASON O LUCÍA?", "b": "",
+     "n": "Y ahora dime: ¿con quién empiezas, con Jason o con Lucía? Guárdalo y sígueme para más."}
+   ]
+  }
+ ]
+}
