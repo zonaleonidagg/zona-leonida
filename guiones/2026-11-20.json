@@ -1,0 +1,67 @@
+{
+ "fecha": "2026-11-20",
+ "videos": [
+  {
+   "id": "A_como_guardar",
+   "fmt": "v",
+   "formato": "preguntas",
+   "title": "¿Cómo se guarda partida en GTA 6? No pierdas horas #gta6 #shorts",
+   "thumb": [
+    "¿CÓMO GUARDO?",
+    "15 RANURAS",
+    "GUÍA RÁPIDA"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "PREGUNTA",
+     "t": "¿CÓMO SE GUARDA EN GTA 6?",
+     "b": "",
+     "n": "¿No encuentras cómo guardar partida en GTA seis? No eres el único. Te lo explico en treinta segundos."
+    },
+    {
+     "lay": "list",
+     "k": "PASO A PASO",
+     "t": "PAUSA → JUEGO → GUARDAR",
+     "b": "Elige una ranura libre o sobrescribe",
+     "n": "Pausa el juego, entra en el apartado Juego y elige Guardar partida. Luego escoge una ranura libre o sobrescribe una antigua."
+    },
+    {
+     "lay": "stat",
+     "k": "RANURAS",
+     "t": "15",
+     "b": "PARTIDAS MANUALES + 1 AUTOGUARDADO",
+     "n": "Tienes quince ranuras para guardar a mano, además del autoguardado."
+    },
+    {
+     "lay": "hero",
+     "k": "OJO",
+     "t": "NO EN EL PRÓLOGO NI EN MISIÓN",
+     "b": "El guardado manual se desbloquea después",
+     "n": "Ojo: durante el prólogo no puedes guardar a mano, y tampoco en mitad de una misión."
+    },
+    {
+     "lay": "hero",
+     "k": "AUTOGUARDADO",
+     "t": "TRAS CADA MISIÓN",
+     "b": "No te fíes solo de él",
+     "n": "El juego guarda solo al terminar misiones, pero hay jugadores que se quejan de haber perdido progreso. Mejor guarda tú también."
+    },
+    {
+     "lay": "hero",
+     "k": "TRUCOS",
+     "t": "SIN GUARDAR",
+     "b": "Con trucos activos no se puede guardar",
+     "n": "Si activas trucos, no podrás guardar hasta que vuelvas a cargar la partida."
+    },
+    {
+     "lay": "hero",
+     "k": "MI CONSEJO",
+     "t": "GUARDA ANTES DE DECIDIR",
+     "b": "No se pueden repetir misiones",
+     "n": "Mi consejo: guarda antes de cada decisión importante, porque no se pueden repetir misiones. Suscríbete para más guías."
+    }
+   ]
+  }
+ ]
+}
