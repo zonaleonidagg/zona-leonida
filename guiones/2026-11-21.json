@@ -1,0 +1,60 @@
+{
+ "fecha": "2026-11-21",
+ "videos": [
+  {
+   "id": "A_record_ventas",
+   "fmt": "v",
+   "formato": "informacion",
+   "title": "GTA 6 rompe el récord: 3.790 millones en UN día #gta6 #shorts",
+   "thumb": [
+    "$3.790 M",
+    "EN UN DÍA",
+    "RÉCORD"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "NOTICIA",
+     "t": "RÉCORD HISTÓRICO",
+     "b": "El mayor lanzamiento del entretenimiento",
+     "n": "GTA seis acaba de batir el mayor récord de la historia del entretenimiento. Mira estas cifras."
+    },
+    {
+     "lay": "stat",
+     "k": "PRIMER DÍA",
+     "t": "$3.790 M",
+     "b": "EN VENTAS · DATO OFICIAL DE TAKE-TWO",
+     "n": "Tres mil setecientos noventa millones de dólares en ventas en su primer día, según Take-Two."
+    },
+    {
+     "lay": "stat",
+     "k": "COPIAS",
+     "t": "32,5 M",
+     "b": "VENDIDAS ANTES DE SALIR",
+     "n": "Y treinta y dos millones y medio de copias vendidas antes del lanzamiento. Ningún videojuego había llegado tan lejos."
+    },
+    {
+     "lay": "stat",
+     "k": "VS EL CINE",
+     "t": "2.500 → 3.790",
+     "b": "MILLONES DE $ · TAQUILLA DE SPIDER-MAN VS GTA 6 EN UN DÍA",
+     "n": "Para que te hagas una idea: en un solo día superó toda la taquilla mundial de Spider-Man Brand New Day, unos dos mil quinientos millones."
+    },
+    {
+     "lay": "stat",
+     "k": "PRENSA",
+     "t": "99",
+     "b": "NOTA MEDIA EN METACRITIC",
+     "n": "Y encima llega con un noventa y nueve de media en Metacritic."
+    },
+    {
+     "lay": "hero",
+     "k": "¿Y TÚ?",
+     "t": "¿YA LO ESTÁS JUGANDO?",
+     "b": "Cuéntamelo en comentarios",
+     "n": "¿Tú ya lo estás jugando? Cuéntamelo en comentarios y sígueme para más noticias de GTA seis."
+    }
+   ]
+  }
+ ]
+}
