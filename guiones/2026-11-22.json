@@ -1,0 +1,67 @@
+{
+ "fecha": "2026-11-22",
+ "videos": [
+  {
+   "id": "A_trucos_gta6",
+   "fmt": "v",
+   "formato": "guia",
+   "title": "Cómo activar los trucos de GTA 6 (hay una trampa) #gta6 #shorts",
+   "thumb": [
+    "61 TRUCOS",
+    "HAY UNA TRAMPA",
+    "GUÍA RÁPIDA"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "GUÍA",
+     "t": "¿TRUCOS EN GTA 6?",
+     "b": "Sí, pero con trampa",
+     "n": "GTA seis tiene sesenta y un trucos, pero hay una trampa."
+    },
+    {
+     "lay": "hero",
+     "k": "REQUISITO",
+     "t": "TERMINA LA HISTORIA",
+     "b": "Antes no se pueden usar",
+     "n": "No funcionan hasta que terminas la historia principal."
+    },
+    {
+     "lay": "list",
+     "k": "PASO 1",
+     "t": "MENÚ PROGRESO → TRUCOS",
+     "b": "Cada truco tiene su propio reto",
+     "n": "Luego, en el menú Progreso, cada truco se desbloquea con su propio reto."
+    },
+    {
+     "lay": "list",
+     "k": "PASO 2",
+     "t": "MÓVIL + L1 Y R1",
+     "b": "En Xbox: LB y RB · combinación con la cruceta",
+     "n": "Para usarlo, saca el móvil, mantén L1 y R1, o LB y RB en Xbox, y marca la combinación con la cruceta."
+    },
+    {
+     "lay": "stat",
+     "k": "EJEMPLO: DINERO",
+     "t": "$250.000",
+     "b": "↑ → ↓ ← ↑ ← ↓ →",
+     "n": "El de dinero da doscientos cincuenta mil dólares: arriba, derecha, abajo, izquierda, arriba, izquierda, abajo, derecha."
+    },
+    {
+     "lay": "hero",
+     "k": "OJO",
+     "t": "SIN GUARDAR NI TROFEOS",
+     "b": "Hasta que reinicies el juego",
+     "n": "Ojo: con un truco activo no puedes guardar ni ganar trofeos hasta reiniciar. Guarda antes."
+    },
+    {
+     "lay": "hero",
+     "k": "FUENTE",
+     "t": "LISTA NO OFICIAL",
+     "b": "Reunida por medios y jugadores",
+     "n": "Rockstar no ha publicado una lista oficial; la han reunido medios y jugadores. Suscríbete para más guías."
+    }
+   ]
+  }
+ ]
+}
