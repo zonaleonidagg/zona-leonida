@@ -1,0 +1,67 @@
+{
+ "fecha": "2026-11-23",
+ "videos": [
+  {
+   "id": "A_ajustes_recomendados",
+   "fmt": "v",
+   "formato": "resena",
+   "title": "Cambia estos 5 ajustes de GTA 6 antes de jugar #gta6 #shorts",
+   "thumb": [
+    "5 AJUSTES",
+    "CÁMBIALOS YA",
+    "GTA 6"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "ANTES DE JUGAR",
+     "t": "CAMBIA ESTOS 5 AJUSTES",
+     "b": "Lo que recomiendan los medios",
+     "n": "Si acabas de empezar GTA seis, cambia estos cinco ajustes antes de seguir."
+    },
+    {
+     "lay": "stat",
+     "k": "OJO",
+     "t": "30 FPS",
+     "b": "Sin modo rendimiento ni calidad en consola",
+     "n": "Primero, lo importante: en consola va a treinta fotogramas y no hay modo rendimiento ni modo calidad."
+    },
+    {
+     "lay": "num",
+     "k": "1 · PANTALLA",
+     "t": "DESENFOQUE AL MÍNIMO",
+     "b": "Viene en 3 · bájalo a 0",
+     "n": "Uno: por eso, baja el desenfoque de movimiento al mínimo. Viene en tres y a cero la imagen se ve mucho más nítida."
+    },
+    {
+     "lay": "num",
+     "k": "2 · CÁMARA",
+     "t": "SIN TEMBLOR DE CÁMARA",
+     "b": "Y balanceo más bajo",
+     "n": "Dos: quita el temblor de cámara y baja el balanceo. Apuntas mejor y marea menos."
+    },
+    {
+     "lay": "num",
+     "k": "3 · CÁMARA",
+     "t": "MENOS CÁMARA DE CHOQUES",
+     "b": "Para no perder el control en persecuciones",
+     "n": "Tres: baja la cámara cinemática de choques, para no perder de vista la carretera en plena persecución."
+    },
+    {
+     "lay": "num",
+     "k": "4 · COMBATE",
+     "t": "APUNTADO PARCIAL",
+     "b": "Fijado · Parcial · Libre",
+     "n": "Cuatro: en apuntado, la mayoría de guías recomienda el modo parcial. Si eres nuevo, el fijado es más fácil."
+    },
+    {
+     "lay": "num",
+     "k": "5 · INTERFAZ",
+     "t": "SUBTÍTULOS Y MINIMAPA SIEMPRE",
+     "b": "Fuentes: Red Bull, Output Lag, iGeeksBlog",
+     "n": "Y cinco: activa los subtítulos en todos los diálogos y deja el minimapa siempre visible. Sígueme para más consejos de GTA seis."
+    }
+   ]
+  }
+ ]
+}
