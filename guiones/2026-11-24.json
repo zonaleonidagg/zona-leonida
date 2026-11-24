@@ -1,0 +1,67 @@
+{
+ "fecha": "2026-11-24",
+ "videos": [
+  {
+   "id": "A_gta6_tiene_online",
+   "fmt": "v",
+   "formato": "preguntas",
+   "title": "¿GTA 6 tiene online? Esto es lo que se sabe #gta6 #shorts",
+   "thumb": [
+    "¿TIENE ONLINE?",
+    "GTA 6",
+    "RESPUESTA"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "PREGUNTA",
+     "t": "¿GTA 6 TIENE ONLINE?",
+     "b": "La duda más buscada de la semana",
+     "n": "¿Se puede jugar GTA seis online con tus amigos? Es la pregunta de la semana, y la respuesta corta es no."
+    },
+    {
+     "lay": "hero",
+     "k": "RESPUESTA",
+     "t": "SOLO UN JUGADOR",
+     "b": "Rockstar lo presenta como experiencia para un jugador",
+     "n": "Rockstar lanzó GTA seis como una experiencia para un solo jugador. No hay modo multijugador en el lanzamiento."
+    },
+    {
+     "lay": "hero",
+     "k": "DATO ÚTIL",
+     "t": "SE PUEDE JUGAR SIN CONEXIÓN",
+     "b": "Según la ficha de PlayStation Store",
+     "n": "La parte buena: según la ficha de PlayStation Store, puedes jugar sin conexión."
+    },
+    {
+     "lay": "stat",
+     "k": "GTA 6 ONLINE",
+     "t": "SIN FECHA",
+     "b": "Rockstar no lo ha anunciado oficialmente",
+     "n": "¿Y GTA seis Online? Rockstar todavía no lo ha anunciado ni le ha puesto fecha."
+    },
+    {
+     "lay": "hero",
+     "k": "RUMOR",
+     "t": "¿2027?",
+     "b": "Informes de Bloomberg · no confirmado",
+     "n": "Hay informes, como uno de Bloomberg, que apuntan a dos mil veintisiete. Pero es un rumor, no algo confirmado."
+    },
+    {
+     "lay": "hero",
+     "k": "MIENTRAS TANTO",
+     "t": "GTA ONLINE SIGUE",
+     "b": "Take-Two confirma que seguirá teniendo soporte",
+     "n": "Mientras tanto, Take-Two ha dicho que el GTA Online de siempre seguirá recibiendo contenido."
+    },
+    {
+     "lay": "hero",
+     "k": "ZONA LEONIDA",
+     "t": "TE AVISAMOS EL PRIMER DÍA",
+     "b": "Fuentes: GTABase, GGRecon, PC Gamer",
+     "n": "En cuanto Rockstar diga algo, te lo cuento aquí. Suscríbete a Zona Leonida para no perdértelo."
+    }
+   ]
+  }
+ ]
+}
