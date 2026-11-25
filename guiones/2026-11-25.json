@@ -1,0 +1,60 @@
+{
+ "fecha": "2026-11-25",
+ "videos": [
+  {
+   "id": "A_primer_parche",
+   "fmt": "v",
+   "formato": "informacion",
+   "title": "El primer parche de GTA 6: 7 arreglos que tienes que conocer #gta6 #shorts",
+   "thumb": [
+    "PARCHE 1.002.002",
+    "7 ARREGLOS",
+    "ACTUALIZA YA"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "NOTICIA",
+     "t": "LLEGÓ EL PRIMER PARCHE",
+     "b": "Versión 01.002.002 · 23 de noviembre",
+     "n": "¿Se te quedó atascada una misión en GTA seis? Pues ya hay parche, y puede que lo arregle."
+    },
+    {
+     "lay": "stat",
+     "k": "PS5",
+     "t": "≈ 600 MB",
+     "b": "TAMBIÉN EN XBOX SERIES X|S",
+     "n": "Es la versión cero uno punto cero cero dos punto cero cero dos. En PS cinco pesa unos seiscientos megas, y también llega a Xbox Series."
+    },
+    {
+     "lay": "list",
+     "k": "ARREGLA",
+     "t": "CIERRES · CLIMA · AUTOGUARDADO",
+     "b": "Menos crasheos y el tiempo ya no se queda congelado",
+     "n": "Corrige varios cierres del juego, el clima que se quedaba igual durante horas y un fallo del autoguardado."
+    },
+    {
+     "lay": "hero",
+     "k": "MUY IMPORTANTE",
+     "t": "LLAMADAS DE LA HISTORIA",
+     "b": "Algunas no llegaban y no desbloqueaban misiones",
+     "n": "Y lo más importante: algunas llamadas de la historia no llegaban, así que no se desbloqueaban misiones. Eso ya está arreglado."
+    },
+    {
+     "lay": "list",
+     "k": "Y ADEMÁS",
+     "t": "ESTRELLAS · GIMNASIO · BOLSAS",
+     "b": "Nivel de búsqueda, barra de peso muerto y ventas al perista",
+     "n": "También arregla que no pudieras quitarte el nivel de búsqueda, la barra de peso muerto del gimnasio y el compañero que no te daba la bolsa al vender al perista."
+    },
+    {
+     "lay": "hero",
+     "k": "ZONA LEONIDA",
+     "t": "ACTUALIZA Y SÍGUEME",
+     "b": "Fuentes: Game Rant, PlayStation LifeStyle",
+     "n": "Así que actualiza antes de jugar. Y sígueme para enterarte de cada parche nuevo de GTA seis."
+    }
+   ]
+  }
+ ]
+}
