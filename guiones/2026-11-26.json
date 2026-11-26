@@ -1,0 +1,67 @@
+{
+ "fecha": "2026-11-26",
+ "videos": [
+  {
+   "id": "A_cuenta_banco_buckme",
+   "fmt": "v",
+   "formato": "guia",
+   "title": "GTA 6: cómo abrir tu cuenta del banco y no perder tu dinero #gta6 #shorts",
+   "thumb": [
+    "BUCKME",
+    "NO PIERDAS TU DINERO",
+    "GUÍA RÁPIDA"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "GUÍA",
+     "t": "NO PIERDAS TU DINERO",
+     "b": "Cómo funciona el banco BuckMe",
+     "n": "Si mueres en GTA seis con mucho efectivo encima, puedes perderlo. Así proteges tu dinero."
+    },
+    {
+     "lay": "hero",
+     "k": "CAPÍTULO 1",
+     "t": "MISIÓN BUCK ME",
+     "b": "Banco Fleeca de Key Lento",
+     "n": "En el capítulo uno, Lucia te cita en el banco Fleeca de Key Lento. Es la misión Buck Me, y te da la app del banco."
+    },
+    {
+     "lay": "list",
+     "k": "PASO 1",
+     "t": "MÓVIL → BUCKME → ATM FINDER",
+     "b": "Marca el cajero más cercano en el GPS",
+     "n": "Abre el móvil, entra en BuckMe y usa el buscador de cajeros para marcar el más cercano."
+    },
+    {
+     "lay": "list",
+     "k": "PASO 2",
+     "t": "DEPOSITA EL EFECTIVO",
+     "b": "Las compras de más de $1.000 se pagan desde la cuenta",
+     "n": "En el cajero, deposita tu efectivo. Las compras de más de mil dólares se pagan desde la cuenta."
+    },
+    {
+     "lay": "hero",
+     "k": "LA CLAVE",
+     "t": "AHORRO FAMILIAR",
+     "b": "No se puede sacar, pero está protegido",
+     "n": "La clave es el ahorro familiar: ese dinero no se puede retirar, pero está a salvo si mueres o te arrestan."
+    },
+    {
+     "lay": "stat",
+     "k": "PREMIO POR AHORRAR",
+     "t": "$10.000 → -20%",
+     "b": "$5.000: límite de $15.000 · $10.000: 20% menos en RydeMe",
+     "n": "Y ahorrar tiene premio: con cinco mil dólares ahorrados tu límite sube a quince mil, y con diez mil, veinte por ciento menos en RydeMe."
+    },
+    {
+     "lay": "hero",
+     "k": "ZONA LEONIDA",
+     "t": "SÍGUEME PARA MÁS GUÍAS",
+     "b": "Fuentes: PowerPyx, GTABase, GTABoom",
+     "n": "Guarda este vídeo y sígueme para más guías de GTA seis."
+    }
+   ]
+  }
+ ]
+}
