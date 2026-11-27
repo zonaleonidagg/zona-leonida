@@ -1,0 +1,59 @@
+{
+ "fecha": "2026-11-27",
+ "videos": [
+  {
+   "id": "A_meme_coches_robados",
+   "fmt": "v",
+   "formato": "meme",
+   "title": "Nadie: / Yo robando coches en GTA 6 #gta6 #shorts",
+   "thumb": ["NADIE:", "YO EN GTA 6:", "MEME"],
+   "slides": [
+    {"lay": "hero", "k": "MEME", "t": "NADIE:", "b": "Yo en GTA 6:", "n": "Nadie. Absolutamente nadie. Yo en GTA 6: robando el coche más caro de Vice City."},
+    {"lay": "hero", "k": "YO", "t": "¡ESTE COCHE ES MÍO!", "b": "Lo acabo de robar, cuenta", "n": "Este coche ya es mío. Lo acabo de robar, así que cuenta."},
+    {"lay": "hero", "k": "EL JUEGO", "t": "SOLO POR UN RATO", "b": "Si no lo registras, no es tuyo", "n": "El juego: tranquilo, solo es tuyo por un rato. Si no lo registras, lo pierdes."},
+    {"lay": "hero", "k": "YO", "t": "¿REGISTRAR? ¿YO?", "b": "Con Moses o en un Pay 'n' Spray", "n": "¿Pagar por registrar un coche robado? Pues sí: con Moses al principio y luego en cualquier Pay 'n' Spray."},
+    {"lay": "hero", "k": "MI GARAJE", "t": "1 PLAZA", "b": "Mis coches favoritos: 14", "n": "Mientras tanto, mi garaje tiene una plaza. Y yo tengo catorce coches favoritos."},
+    {"lay": "stat", "k": "LA SOLUCIÓN", "t": "$160.000", "b": "Los 8 garajes que se pueden comprar", "n": "La solución: comprar los ocho garajes en venta. Solo cuestan ciento sesenta mil dólares. Solo."},
+    {"lay": "hero", "k": "REMATE", "t": "YO: ROBO OTRO", "b": "Sígueme para más memes", "n": "Yo, sin un dólar: bueno, pues robo otro. Sígueme para más memes de GTA 6."}
+   ]
+  },
+  {
+   "id": "B_guia_garajes_y_casas",
+   "fmt": "h",
+   "formato": "guia",
+   "title": "GTA 6: ¿se pueden comprar casas? Todos los garajes, precios y cuáles son gratis",
+   "thumb": ["$160.000", "TODOS LOS GARAJES", "GUÍA"],
+   "slides": [
+    {"lay": "hero", "k": "GUÍA", "t": "CASAS Y GARAJES EN GTA 6", "b": "Qué se compra, cuánto cuesta y qué te regalan", "n": "¿Se pueden comprar casas en GTA 6? La respuesta corta es que no, pero sí puedes comprar garajes. En esta guía te cuento cuáles hay, cuánto cuestan y cuáles te salen gratis."},
+    {"lay": "hero", "k": "LAS CASAS", "t": "TE LAS DA LA HISTORIA", "b": "Key Lento → Starlet Motel (capítulo 2) → ...", "n": "Las casas, o refugios, no se compran: te las va dando la historia. Empiezas en la casa de Jason en Key Lento, y en el capítulo dos pasas al Starlet Motel. Más adelante llegan otros, según avanzas."},
+    {"lay": "stat", "k": "LO QUE SÍ SE COMPRA", "t": "8 GARAJES", "b": "Una plaza para un coche en cada uno", "n": "Lo que sí puedes comprar son ocho garajes. Cada uno tiene una plaza, es decir, sitio para un coche más."},
+    {"lay": "hero", "k": "CÓMO SE DESBLOQUEA", "t": "APP VICE CITY REAL ESTATE", "b": "Capítulo 2, tras la misión Daily Driver", "n": "Se compran con la app Vice City Real Estate del móvil. Se desbloquea en el capítulo dos, poco después de la misión Daily Driver, la del coche para Moses."},
+    {"lay": "list", "k": "PASOS", "t": "MÓVIL → APP → GARAJE → PAGAR", "b": "Sin ir a ningún sitio", "n": "El proceso es muy simple: abre el móvil, entra en la app, elige el garaje y paga. No hace falta ir hasta allí."},
+    {"lay": "list", "k": "LOS BARATOS", "t": "DESDE $4.000", "b": "Mitchell Auto Center $4.000 · Persistence Road $7.600 · 7th Avenue $12.000", "n": "Empecemos por los baratos. Mitchell Auto Center, en Kelly County, cuesta cuatro mil dólares y es el más barato. Persistence Road cuesta siete mil seiscientos, y el de la Séptima Avenida, al este del aeropuerto, doce mil."},
+    {"lay": "list", "k": "PRECIO MEDIO", "t": "AMBROSIA", "b": "Store n' Bolt $16.800 · Wyatt Motors $21.600", "n": "En Ambrosia tienes dos: Store n' Bolt, por dieciséis mil ochocientos, y Wyatt Motors, por veintiún mil seiscientos."},
+    {"lay": "list", "k": "LOS CAROS", "t": "LA COSTA", "b": "Vela Rota Drive $24.000 · Bonita Court $34.000", "n": "Subimos de precio. Vela Rota Drive, en Capri, cuesta veinticuatro mil, y Bonita Court, en Vice Beach, treinta y cuatro mil."},
+    {"lay": "stat", "k": "EL MÁS CARO", "t": "$40.000", "b": "Atlantic Court Garage · Ocean Beach", "n": "Y el más caro de todos es Atlantic Court, en Ocean Beach: cuarenta mil dólares por una sola plaza."},
+    {"lay": "stat", "k": "COMPRARLOS TODOS", "t": "$160.000", "b": "Y te llevas el trofeo «Little Boxes»", "n": "Si compras los ocho, gastas ciento sesenta mil dólares en total, y a cambio consigues el trofeo Little Boxes."},
+    {"lay": "list", "k": "GRATIS CON LA HISTORIA", "t": "4 GARAJES · 8 PLAZAS", "b": "Port Gellhorn (cap. 2) · Thompson Court (cap. 4) · 2 más en el cap. 5", "n": "Además, la historia te regala cuatro garajes: Port Gellhorn en el capítulo dos, Thompson Court en el cuatro y otros dos en el capítulo cinco. Entre los cuatro suman ocho plazas, pero no cuentan para el trofeo."},
+    {"lay": "hero", "k": "OJO", "t": "APARCAR NO ES REGISTRAR", "b": "Registra con Moses o en un Pay 'n' Spray", "n": "Y ojo con esto: meter un coche robado en el garaje no lo hace tuyo. Primero hay que registrarlo, con Moses en el capítulo dos, y desde el capítulo tres en cualquier Pay 'n' Spray."},
+    {"lay": "stat", "k": "EN TOTAL", "t": "16 PLAZAS", "b": "8 compradas + 8 de la historia · más el coche de Jason y el de Lucia", "n": "Con todo, tienes dieciséis plazas de garaje, más el coche personal de Jason y el de Lucia. Mi consejo: empieza por el de cuatro mil, que es una ganga."},
+    {"lay": "hero", "k": "ZONA LEONIDA", "t": "SUSCRÍBETE", "b": "Fuentes: GTABase, gta.guide, VI Field Guide, GamerFuzion", "n": "Si esta guía te ha servido, suscríbete a Zona Leonida para más guías de GTA 6 en español."}
+   ]
+  },
+  {
+   "id": "C_bug_jason_en_gris",
+   "fmt": "v",
+   "formato": "errores",
+   "title": "GTA 6: el bug de Jason en gris que el parche no arregló #gta6 #shorts",
+   "thumb": ["¿JASON EN GRIS?", "EL BUG", "SIN ARREGLAR"],
+   "slides": [
+    {"lay": "hero", "k": "BUG", "t": "¿JASON EN GRIS?", "b": "No eres tú, es un bug", "n": "¿Jason sale en gris y no puedes cambiar a él? Tranquilo, no eres tú. Jason se ha tomado unas vacaciones sin avisar."},
+    {"lay": "hero", "k": "CUÁNDO PASA", "t": "CAPÍTULO 3", "b": "Tras la misión Missing Persons, en Kelly County", "n": "Pasa en el capítulo tres, después de la misión secundaria Missing Persons, en Kelly County."},
+    {"lay": "list", "k": "SÍNTOMAS", "t": "NO CONTESTA · NO SE PUEDE ELEGIR", "b": "Y Lucia se queda sin misiones", "n": "Jason no contesta las llamadas, no aparece en la rueda de personajes y Lucia se queda sin misión de historia. La partida se atasca a mitad."},
+    {"lay": "stat", "k": "PARCHE 01.002.002", "t": "NO LO ARREGLA", "b": "Arregló 7 fallos, pero este no", "n": "El primer parche arregló siete fallos, pero este no estaba en la lista, y Rockstar todavía no ha dicho nada."},
+    {"lay": "hero", "k": "QUÉ HACER", "t": "GUARDA A MANO", "b": "En varias ranuras, antes de Missing Persons", "n": "Lo más seguro: guarda a mano en varias ranuras. Y si te pasa, carga una partida de antes de esa misión."},
+    {"lay": "hero", "k": "ZONA LEONIDA", "t": "SÍGUEME", "b": "Fuentes: GameRant, IBTimes, GamingBible", "n": "Sígueme y te aviso en cuanto Rockstar lo arregle."}
+   ]
+  }
+ ]
+}
