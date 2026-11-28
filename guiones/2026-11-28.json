@@ -1,0 +1,233 @@
+{
+ "fecha": "2026-11-28",
+ "videos": [
+  {
+   "id": "A_preguntas_motosierra_dardos_tenis",
+   "fmt": "v",
+   "formato": "preguntas",
+   "title": "¿Por qué GTA 6 no tiene motosierra ni dardos? Rockstar responde #gta6 #shorts",
+   "thumb": [
+    "¿Y LA MOTOSIERRA?",
+    "ROCKSTAR RESPONDE",
+    "QUIZ"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "QUIZ",
+     "t": "¿POR QUÉ NO ESTÁ?",
+     "b": "3 preguntas que todos se hacen",
+     "n": "Tres cosas que todos buscan en GTA 6 y no están. ¿Sabes por qué? Rockstar ya lo explicó."
+    },
+    {
+     "lay": "hero",
+     "k": "PREGUNTA 1",
+     "t": "¿Y LA MOTOSIERRA?",
+     "b": "Se ve por el mapa, pero no se puede coger",
+     "n": "Uno: hay motosierras por el mapa, pero no se pueden coger. ¿Por qué? Tres, dos, uno."
+    },
+    {
+     "lay": "hero",
+     "k": "RESPUESTA",
+     "t": "DEMASIADO GRÁFICA",
+     "b": "Rob Nelson, Rockstar North · vía VGC",
+     "n": "Según Rob Nelson, de Rockstar North, sería demasiado violenta con tanto detalle. Por eso tampoco hay katana."
+    },
+    {
+     "lay": "hero",
+     "k": "PREGUNTA 2",
+     "t": "¿Y LOS DARDOS?",
+     "b": "Un clásico de GTA que no ha vuelto",
+     "n": "Dos: ¿dónde están los dardos? Tres, dos, uno."
+    },
+    {
+     "lay": "hero",
+     "k": "RESPUESTA",
+     "t": "NO DIO TIEMPO",
+     "b": "Mejor no hacerlo que hacerlo mal · vía VGC",
+     "n": "No les dio tiempo, y prefieren no ponerlo antes que hacerlo mal."
+    },
+    {
+     "lay": "hero",
+     "k": "PREGUNTA 3",
+     "t": "¿Y EL TENIS?",
+     "b": "Sí hay minigolf",
+     "n": "Tres: el tenis llegó a prepararse, pero lo quitaron. ¿Por qué? Tres, dos, uno."
+    },
+    {
+     "lay": "hero",
+     "k": "RESPUESTA",
+     "t": "NO LES CONVENCIÓ",
+     "b": "Y sí hay minigolf · vía PC Games",
+     "n": "No les convenció cómo quedó. Eso sí, hay minigolf. Sígueme para más respuestas."
+    }
+   ]
+  },
+  {
+   "id": "B_primera_semana_en_cifras",
+   "fmt": "h",
+   "formato": "informacion",
+   "title": "GTA 6: su primera semana en cifras (39 millones de jugadores, récords y 8 nominaciones)",
+   "thumb": [
+    "39 MILLONES",
+    "LA PRIMERA SEMANA",
+    "RÉCORDS"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "NOTICIAS",
+     "t": "LA PRIMERA SEMANA DE GTA 6",
+     "b": "Jugadores, horas, récords y premios",
+     "n": "GTA 6 ya lleva más de una semana a la venta, y los números son de locos. Hoy te cuento las cifras oficiales de su primera semana, y cómo está el tema de los parches."
+    },
+    {
+     "lay": "stat",
+     "k": "PLAYSTATION",
+     "t": "+39 MILLONES",
+     "b": "Jugadores únicos en PS5 en 4 días · PlayStation Blog",
+     "n": "Empezamos por PlayStation. Sony dice que es el mayor lanzamiento de su historia: más de treinta y nueve millones de jugadores distintos en PS5, solo entre el diecinueve y el veintidós de noviembre."
+    },
+    {
+     "lay": "stat",
+     "k": "HORAS JUGADAS",
+     "t": "683 MILLONES",
+     "b": "17,4 horas de media por jugador",
+     "n": "En esos cuatro días se jugaron seiscientos ochenta y tres millones de horas. Eso son unas diecisiete horas y media por jugador. Es decir, medio mundo no durmió."
+    },
+    {
+     "lay": "list",
+     "k": "MÁS RÉCORDS DE SONY",
+     "t": "RÉCORDS EN PS5",
+     "b": "Más jugadores a la vez de la historia · Primer juego en el 70% de las PS5 nuevas",
+     "n": "Sony suma más récords: es el juego de PlayStation con más jugadores conectados a la vez, y fue lo primero que se jugó en el setenta por ciento de las PS5 nuevas o recién conectadas."
+    },
+    {
+     "lay": "stat",
+     "k": "STREAMING",
+     "t": "420 MILLONES DE HORAS",
+     "b": "Twitch + YouTube + Kick en 7 días · Streams Charts",
+     "n": "Y no solo se juega, también se mira. Según Streams Charts, la gente vio unos cuatrocientos veinte millones de horas de GTA 6 en directos de Twitch, YouTube y Kick en la primera semana."
+    },
+    {
+     "lay": "stat",
+     "k": "ANTES → AHORA",
+     "t": "CASI x3",
+     "b": "Récord anterior: la beta de Valorant (2020)",
+     "n": "Eso casi triplica el récord anterior, que tenía la beta cerrada de Valorant del año dos mil veinte."
+    },
+    {
+     "lay": "stat",
+     "k": "PICO DE ESPECTADORES",
+     "t": "7,91 MILLONES",
+     "b": "A la vez · récord absoluto · Streams Charts",
+     "n": "En su mejor momento hubo casi ocho millones de personas viendo directos de GTA 6 a la vez. Otro récord absoluto."
+    },
+    {
+     "lay": "stat",
+     "k": "LA PRENSA",
+     "t": "EDGE: 10/10",
+     "b": "Número 431 de la revista Edge",
+     "n": "La crítica sigue igual de entregada. La revista Edge, que es famosa por ser muy exigente, le ha dado un diez sobre diez en su número cuatrocientos treinta y uno."
+    },
+    {
+     "lay": "num",
+     "k": "THE GAME AWARDS",
+     "t": "8 NOMINACIONES",
+     "b": "El juego con más candidaturas · gala el 10 de diciembre",
+     "n": "Y en los premios The Game Awards, que se entregan el diez de diciembre, GTA 6 tiene ocho nominaciones. Es el juego con más candidaturas de este año."
+    },
+    {
+     "lay": "list",
+     "k": "LAS CATEGORÍAS",
+     "t": "JUEGO DEL AÑO Y MÁS",
+     "b": "Dirección · Narrativa · Arte · Música · Audio · Acción y aventura · Interpretación (Lucia)",
+     "n": "Opta a juego del año, mejor dirección, narrativa, dirección de arte, banda sonora, diseño de audio, mejor juego de acción y aventura, y mejor interpretación, por el papel de Lucia."
+    },
+    {
+     "lay": "stat",
+     "k": "LA RADIO",
+     "t": "21 EMISORAS",
+     "b": "+ 2 de tertulia · más de 740 canciones en los créditos · Vice",
+     "n": "Otro dato curioso: la radio tiene veintiuna emisoras de música, más dos de tertulia. Y en los créditos aparecen más de setecientas cuarenta canciones."
+    },
+    {
+     "lay": "hero",
+     "k": "LOS PARCHES",
+     "t": "ÚLTIMO: 01.002.002",
+     "b": "Del 23 de noviembre · aún no hay otro anunciado",
+     "n": "¿Y los parches? El último sigue siendo el cero uno punto cero cero dos punto cero cero dos, del veintitrés de noviembre. Rockstar todavía no ha anunciado el siguiente."
+    },
+    {
+     "lay": "hero",
+     "k": "OJO",
+     "t": "EL CLIMA SIGUE FALLANDO",
+     "b": "A algunos jugadores de PS5 · Game Rant, LADbible",
+     "n": "Y ojo, porque algunos jugadores de PS5 dicen que el clima se sigue quedando atascado, aunque ese fallo salía en la lista de arreglos. Rockstar aún no ha dicho nada."
+    },
+    {
+     "lay": "hero",
+     "k": "ZONA LEONIDA",
+     "t": "SUSCRÍBETE",
+     "b": "Fuentes: PlayStation Blog, Engadget, Streams Charts, VGC, Shacknews, Vice",
+     "n": "Te iré contando todas las novedades. Suscríbete a Zona Leonida y dime en los comentarios cuántas horas llevas tú."
+    }
+   ]
+  },
+  {
+   "id": "C_guia_extras_ultimate",
+   "fmt": "v",
+   "formato": "guia",
+   "title": "GTA 6 Ultimate: dónde y cuándo se desbloquea cada extra #gta6 #shorts",
+   "thumb": [
+    "¿DÓNDE ESTÁ?",
+    "EXTRAS ULTIMATE",
+    "GUÍA"
+   ],
+   "slides": [
+    {
+     "lay": "hero",
+     "k": "GUÍA",
+     "t": "¿DÓNDE ESTÁN TUS EXTRAS?",
+     "b": "Edición Ultimate",
+     "n": "¿Tienes la edición Ultimate y no ves los extras? Se desbloquean por capítulos."
+    },
+    {
+     "lay": "list",
+     "k": "CAPÍTULO 1",
+     "t": "CASA DE JASON",
+     "b": "Moto Dinka Enduro debajo · kayak Crest detrás",
+     "n": "En el capítulo uno, en la casa de Jason: la moto Dinka Enduro está debajo de la casa y el kayak, detrás."
+    },
+    {
+     "lay": "list",
+     "k": "CAPÍTULO 2",
+     "t": "REVÓLVERES + BUGGY",
+     "b": "Revólveres en Ammu-Nation · Buggy en el Mud Club de Wyman",
+     "n": "En el dos, los revólveres exclusivos salen en Ammu-Nation, y el Dominator Buggy llega cuando Wyman te lleva al Thrillbilly Mud Club."
+    },
+    {
+     "lay": "list",
+     "k": "CAPÍTULO 4",
+     "t": "LANCHA SHITZU SQUALO",
+     "b": "Muelle del canal, al sur de Washington Beach",
+     "n": "En el cuatro, la lancha Shitzu Squalo está en el muelle del canal, al sur de Washington Beach."
+    },
+    {
+     "lay": "stat",
+     "k": "CAPÍTULO 5",
+     "t": "GROTTI CHEETAH '95",
+     "b": "Garaje del edificio Pegassi Residences",
+     "n": "Y lo mejor, en el capítulo cinco: el Grotti Cheetah del noventa y cinco, en el garaje del edificio Pegassi Residences."
+    },
+    {
+     "lay": "hero",
+     "k": "RESUMEN",
+     "t": "AVANZA LA HISTORIA",
+     "b": "Fuentes: GamesRadar, Red Bull, GTABase",
+     "n": "Si te falta algo, sigue avanzando la historia. Sígueme para más guías."
+    }
+   ]
+  }
+ ]
+}
